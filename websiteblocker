@@ -1,1 +1,8 @@
-scheduling the python script in the background and blocking the website's for particular period of time.
+Scheduling the python script in the background and blocking the website's for particular period of time.
+
+Hosts file the major file located in the C:\Windows\System32\drivers\etc\Hosts
+
+This code helps to run the python file in the background and block the desired websites for particular period of time.
+
+python files can only be run inthe background when they are saved as '.pyw' and assigning in the task Schedulers.
+
